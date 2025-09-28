@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Sarth+;Artificial+Inteligence+and+Data+Science+Engineering+Student;Exploring+ML+%7C+Agentic+AI;Japanese+Language+Learner+%F0%9F%87%AF%F0%9F%87%B5;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Sarth+;Artificial+Intelligence+and+Data+Science+Engineering+Student;Exploring+Data+Science+as+well+as+ML+%7C+Agentic+AI;Japanese+Language+Learner+%F0%9F%87%AF%F0%9F%87%B5;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </p>
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
@@ -11,7 +11,7 @@
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
-🎓 Artificial Inteligence and Data Science Engineering student at Savitribai Phule Pune University, Maharashtra, India  
+🎓 Artificial Intelligence and Data Science Engineering student at Savitribai Phule Pune University, Maharashtra, India  
 🔍 Exploring ML, AI and the power of emerging technologies  
 🈶 Passionate about the Japanese language and cross-cultural learning
 
