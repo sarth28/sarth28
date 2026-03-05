@@ -80,37 +80,6 @@
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
-<details> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
-
-  <h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats -->
-  <p align="center">
-    <a href="https://github.com/sarth28">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
-       alt="sarth28's streak" 
-       src="https://streak-stats.demolab.com?user=sarth28&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-    </a>
-</p>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-  </p>
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <!-- GitHub Stats -->
-  <img alt="sarth28's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=sarth28&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="192px"/>
-  <img alt="sarth28's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sarth28&langs_count=8&layout=compact&theme=dark&hide_border=true" height="192px"/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- GitHub Activity Graph -->
-  [![sarth28's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarth28&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</details>
-
-![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
-
 ## 📬 Connect with Me
 
  <p align="left">
